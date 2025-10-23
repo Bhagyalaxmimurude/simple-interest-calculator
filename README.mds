@@ -1,0 +1,9 @@
+# Simple Interest Calculator
+
+This project is a simple shell script that calculates simple interest based on user input.
+
+## Usage
+
+1. Run the script:  
+   ```bash
+   ./simple-interest.sh
